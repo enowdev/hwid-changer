@@ -60,8 +60,6 @@
 <ul>
   <li>Windows 10/11</li>
   <li>Administrator privileges</li>
-  <li>Minimum 100MB free disk space</li>
-  <li>2GB RAM recommended</li>
 </ul>
 
 <h2>🐛 Known Issues</h2>
