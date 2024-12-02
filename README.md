@@ -1,31 +1,92 @@
 <div align="center">
-  <h1>HWID Changer</h1>
-  <p>A powerful tool to manage and modify hardware identifiers on Windows systems.</p>
-
-  [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://python.org)
-  [![Windows](https://img.shields.io/badge/platform-Windows-blue.svg)](https://windows.com)
+  <h1>HWID Changer v1.0</h1>
+  <p>Initial Release</p>
 </div>
 
 ---
 
-## 🚀 Features
+<h2>🚀 What's New</h2>
 
-- Change Hardware ID (HWID)
-- Modify UUID
-- Update Machine GUID
-- Change MAC Address
-- Modify HDD Serial
-- Update Product ID
-- Change Installation ID
-- User-friendly GUI interface
-- Multi-language support (English & Indonesian)
+<h3>Features</h3>
+<ul>
+  <li>Hardware ID (HWID) modification</li>
+  <li>UUID generator and changer</li>
+  <li>Machine GUID customization</li>
+  <li>MAC address spoofer</li>
+  <li>HDD serial number modifier</li>
+  <li>Product ID changer</li>
+  <li>Installation ID updater</li>
+  <li>Overview tab for system information</li>
+  <li>Multi-language support (English & Indonesian)</li>
+  <li>Modern and user-friendly interface</li>
+</ul>
 
-## 📋 Requirements
+<h3>Improvements</h3>
+<ul>
+  <li>Intuitive GUI design</li>
+  <li>Real-time system information updates</li>
+  <li>Error handling and validation</li>
+  <li>Administrator privilege handling</li>
+  <li>Backup functionality for safe changes</li>
+</ul>
 
-- Windows 10/11
-- Python 3.12 or higher
-- Administrator privileges
+<h2>📦 Downloads</h2>
 
-### Portable Version
-1. Download the latest portable version from [Releases](https://github.com/enowdev/hwid-changer/releases)
-2. Run `HWID_Changer.exe`
+<table>
+  <tr>
+    <th>Version</th>
+    <th>Type</th>
+    <th>File</th>
+    <th>Size</th>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>Portable</td>
+    <td><a href="#">HWID_Changer.exe</a></td>
+    <td>15 MB</td>
+  </tr>
+</table>
+
+<h2>🔧 Installation</h2>
+
+<h3>Portable Version</h3>
+<ol>
+  <li>Download <code>HWID_Changer.exe</code></li>
+  <li>Run as Administrator</li>
+  <li>Start using the application</li>
+</ol>
+
+<h3>Installer Version</h3>
+<ol>
+  <li>Download <code>HWID_Changer_Setup.exe</code></li>
+  <li>Run the installer</li>
+  <li>Follow installation wizard</li>
+  <li>Launch from Start Menu or Desktop shortcut</li>
+</ol>
+
+<h2>⚠️ Requirements</h2>
+<ul>
+  <li>Windows 10/11</li>
+  <li>Administrator privileges</li>
+  <li>Minimum 100MB free disk space</li>
+  <li>2GB RAM recommended</li>
+</ul>
+
+<h2>🐛 Known Issues</h2>
+<ul>
+  <li>Some antivirus software may flag the application</li>
+  <li>Requires full restart for some changes to take effect</li>
+</ul>
+
+<h2>📝 Notes</h2>
+<ul>
+  <li>Always create a system restore point before making changes</li>
+  <li>Some features require system restart to take effect</li>
+  <li>Use at your own risk</li>
+</ul>
+
+<div align="center">
+  <p>For issues and feature requests, please visit our <a href="https://github.com/enowdev/hwid-changer/issues">GitHub Issues</a> page.</p>
+  <hr>
+  <p>Made with ❤️ by <a href="https://github.com/enowdev">enowdev</a></p>
+</div>
