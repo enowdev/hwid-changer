@@ -42,7 +42,7 @@
   <tr>
     <td>1.0</td>
     <td>Portable</td>
-    <td><a href="#">HWID_Changer.exe</a></td>
+    <td><a href="https://github.com/enowdev/hwid-changer/releases/tag/hwid-changer">HWID_Changer.exe</a></td>
     <td>15 MB</td>
   </tr>
 </table>
