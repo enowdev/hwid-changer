@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/icon.ico" alt="HWID Changer Logo" width="150" height="150">
   <h1>HWID Changer</h1>
   <p>A powerful tool to manage and modify hardware identifiers on Windows systems.</p>
 
