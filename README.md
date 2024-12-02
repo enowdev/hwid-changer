@@ -56,14 +56,6 @@
   <li>Start using the application</li>
 </ol>
 
-<h3>Installer Version</h3>
-<ol>
-  <li>Download <code>HWID_Changer_Setup.exe</code></li>
-  <li>Run the installer</li>
-  <li>Follow installation wizard</li>
-  <li>Launch from Start Menu or Desktop shortcut</li>
-</ol>
-
 <h2>⚠️ Requirements</h2>
 <ul>
   <li>Windows 10/11</li>
